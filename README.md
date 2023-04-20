@@ -1,6 +1,6 @@
 # TNAFK
 
-![alt text](https://i.imgur.com/ta1wSdp.png)
+![alt text]([https://i.imgur.com/ta1wSdp.png](https://cdn.discordapp.com/attachments/563821752531288074/1098597106215813181/image.png))
 
 ## Description
 
