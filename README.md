@@ -17,8 +17,6 @@ Domain Spoofer
  Linux  
 ```git clone https://github.com/G4T0cm/TNAFK```
   
-Windows  
-* See [Releases](https://github.com/G4T0cm/TNAFK/releases)
 
 ### Executing program
 
