@@ -15,7 +15,7 @@ Domain Spoofer
 ### Installing
 
  Linux  
-```git clone https://https://github.com/G4T0cm/TNAFK```
+```git clone https://github.com/G4T0cm/TNAFK```
   
 Windows  
 * See [Releases](https://github.com/G4T0cm/TNAFK/releases)
